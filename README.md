@@ -13,12 +13,12 @@ Installation
  *This program requires CIRpy; to install follow the instructions below.
 
  Install CIRpy using:
-     pip install cirpy
+ pip install cirpy
 
  Alternatively, you can manually download the package and install it using the following command:
-    tar -xzvf CIRpy-1.0.2.tar.gz
-    cd CIRpy-1.0.2
-    python setup.py install
+ tar -xzvf CIRpy-1.0.2.tar.gz
+ cd CIRpy-1.0.2
+ python setup.py install
 
 Comments
 ---------
