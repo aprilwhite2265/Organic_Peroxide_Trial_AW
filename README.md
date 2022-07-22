@@ -2,8 +2,6 @@
 Organic Peroxide Trial
 =======================
 
- This program takes a list of chemicals and their concentrations and determines if the product is an organic peroxide or not.
-
 Introduction
 ------------
  This program takes a list of chemicals and their concentrations and determines if the product is an organic peroxide or not.
