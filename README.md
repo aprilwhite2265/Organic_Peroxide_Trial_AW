@@ -1,5 +1,5 @@
 
-Organic peroxide Trial
+Organic Peroxide Trial
 =======================
 
  This program takes a list of chemicals and their concentrations and determines if the product is an organic peroxide or not.
