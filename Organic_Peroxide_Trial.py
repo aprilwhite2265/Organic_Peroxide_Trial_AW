@@ -37,7 +37,7 @@ for f in m_formula:
 		weight=cirpy.resolve(f,'mw')
 		mass_oo+=str(weight)+','
 		cou=f.count("OO")
-		count_oo=str(cou)+','
+		count_oo+=str(cou)+','
 		con=p_list[i]
 		con_oo+=str(con)+','
 		i+=1
