@@ -84,4 +84,4 @@ elif hydro>1.0 and hydro<7.0 and Oa>.005:
 		print("This product is an organic peroxide(49 CFR 173.128(a)(4)(ii))")
 else:
 	print("This product is not an organic peroxide")
-k=input("press Enter to exit")
+k=input("Press Enter to exit")
